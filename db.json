@@ -1,14 +1,5 @@
 {
   "fdpid" : "GBK_C060_DP0035",
-  "no_of_ticket" : "2",
-  "no_of_order" : "2",
-  "no_of_available_port" : "2",
-  "no_of_planned_port" : "2",
-  "no_of_donor_port" : "0",
-  "no_of_unused_extraport" : "2",
-  "no_of_available_extraport" : "0",
-  "latitude" : "3.228564902",
-  "longitude" : "101.715738949",
   "errNo" : "00",
   "errMsg" : "SUCCESS",
   "fdpDemandInfo" : [ {
